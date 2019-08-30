@@ -1,5 +1,5 @@
-# 60daysofudacity
-# UdacityFacebookScholar 
+# 60 Days of Udacity Challenge
+# #UdacityFacebookScholar 
 My daily log for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge with Facebook.
 
 
@@ -220,20 +220,42 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - Serving the model via REST API - Flask Crash Course / Adding Config and Logging
 
 ### Day 33 :
-- Worked on Lesson 9 "Encrypted Deep Learning" - Encrypted Deep Learning in Keras - COMPLETED SPAISC PROGRAM COURSE!!!
+- Worked on Lesson 9 "Encrypted Deep Learning" - Encrypted Deep Learning in Keras - COMPLETED SPAIC PROGRAM COURSE!!!
 - "Intro to Deep Learning with PyTorch" - Worked Lesson 5 - Pooling Layers / CNN for Image Classification
 - Reading "Grokking Deep Learning" - Chapter 7 - Correlation Summarization / The simplified visualization
-- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding a Convolutional Neural Network using PyTorch  (CIFAR)
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding a Convolutional Neural Network using PyTorch  (CIFAR) - PART 1
 - Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 5 - "Generalizations" - The Iterative construction Mechanism
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - Serving the model via REST API - API Schema Validation
 
-### Day 33 :
-- Worked on Lesson 9 "Encrypted Deep Learning" - Encrypted Deep Learning in Keras - COMPLETED SPAISC PROGRAM COURSE!!!
-- "Intro to Deep Learning with PyTorch" - Worked Lesson 5 - Pooling Layers / CNN for Image Classification
+### Day 34 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 5 - Image Augmentation / Groundbreaking CNN Architectures
 - Reading "Grokking Deep Learning" - Chapter 7 - Correlation Summarization / The simplified visualization
-- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding a Convolutional Neural Network using PyTorch  (CIFAR)
-- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 5 - "Generalizations" - The Iterative construction Mechanism
-- Continuing with Udemy Course "Deployment of Machine Learning Models" - Serving the model via REST API - API Schema Validation
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding a Convolutional Neural Network using PyTorch  (CIFAR) - PART 2
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 5 - "Generalizations" - Database Update Algorithms and Online Learning Algorithms
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Continuous Integration and Deployment Pipelines - Introduction to CI/CD
+
+### Day 34 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 6 - Style Transfer / Separating Style & Content
+- Reading "Grokking Deep Learning" - Chapter 7 - Visualizing using letters instead of pictures / Linking the variables
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing Style Transfer with Deep Neural Networks (PART 1)
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 6 - "Boosting for Queries" - The Boosting for queries algorithm 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Continuous Integration and Deployment Pipelines - Setting up Circle CI Config / Publishing the model to Gemfury
+
+### Day 35 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 6 - VGG Features / Features & Gram Matrix
+- Reading "Grokking Deep Learning" - Chapter 8 - Memorization vs Generalization
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing Style Transfer with Deep Neural Networks (PART 2)
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 6 - "Boosting for Queries" - Aggregation / Base synopsis generators / The special case of Linear Queries
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Testing the CI Pipeline - Setting Up differential Tests
+
+### Day 36 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 7 - Recurrent Neural Networks
+- Reading "Grokking Deep Learning" - Chapter 8 - Why dropout works : Ensembling works 
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing a Simple RNN using PyTorch to do time-series prediction
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 7 - "When Worst-Case Sensitivity is Atypical" - Aggregation / Base synopsis generators / The special case of Linear Queries
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Testing the CI Pipeline - Setting Up differential Tests
+
+
 
 
 
