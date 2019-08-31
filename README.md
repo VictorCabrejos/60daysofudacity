@@ -1,15 +1,6 @@
 # 60 Days of Udacity Challenge
 
-<div class="row">
-  <div class="column">
-    <img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="Snow" width="300">
-  </div>
-  <div class="column">
-    <img src="https://cdn.getblueshift.com/pictures/38243/content/60-day-badges.png" alt="Forest" width="300">
-  </div>
-</div>
-
-
+<img src="https://i.ibb.co/2cjNw8j/u.png" alt="Forest" width="400">
 
 # #UdacityFacebookScholar 
 My daily log for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge with Facebook.
