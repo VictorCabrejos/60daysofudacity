@@ -1,4 +1,8 @@
 # 60 Days of Udacity Challenge
+
+
+<img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="drawing" width="400"/>
+
 # #UdacityFacebookScholar 
 My daily log for the #60daysofudacity pledge of the Secure and Private AI Scholarship Challenge with Facebook.
 
