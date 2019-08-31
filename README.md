@@ -291,11 +291,39 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Configuring the AWS CLI - Uploading images to the Elastic Container Registry (ECR)
 
 ### Day 42 :
-- Started Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Linear Layer and Classification Pipeline
-- Reading "Grokking Deep Learning" - Chapter 11 - Supervised Natural Language Processing (NLP)
-- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding of a Linear Classifier in Pytorch
-- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 11 - "Differential Privacy and Mechanism Design" - Approximately truthful equilibrium selection mechanisms
-- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Configuring the AWS CLI - Uploading images to the Elastic Container Registry (ECR)
+- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Max Pooling and Avaerage Pooling
+- Reading "Grokking Deep Learning" - Chapter 11 - Intro to an embedding layer / Neural Architecture
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding of a Convolutional Neural Network
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 11 - "Differential Privacy and Machine Learning" - The sample complexity of differentially private machine learning - Differentially private online learning
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Creating the ECS Cluster with Fargate Launch Method
+
+### Day 43 :
+- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Regularization and Normalization
+- Reading "Grokking Deep Learning" - Chapter 12 - The limitations of bag-of-words vectors / Using identity vectors to sum word embeddings
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding implementing DropBlock Regularization
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 12 - "Additional Models" - The local model / Pan-private streaming model
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Creating the ECS Cluster with the EC2 Launch Method / Updating the Cluster Containers
+
+### Day 44 :
+- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Data Augmentation
+- Reading "Grokking Deep Learning" - Chapter 12 - Learning the transition matrices / Forward Propagation in Python
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding implementing modern architectures (ResNet) with Transfer Learning
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 12 - "Additional Models" - Pan-Private Density Estimation / Continual observation
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Challenges of using Big Data in Machine Learning / Plant Seedlings Images
+
+### Day 45 :
+- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Final Project - **UDEMY COURSE COMPLETED !!!**
+- Reading "Grokking Deep Learning" - Chapter 12 - Forward Propagation / Backpropagation with arbitrary length
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Boat Recognition Project
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 12 - "Additional Models" - Pan-private counting - **BOOK READING COMPLETED !!!**
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Building a CNN in the Research Environment / Production Code for a CNN Learning Pipeline
+
+### Day 46 :
+- Starting my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Building the model
+- Reading "Grokking Deep Learning" - Chapter 13 - Tensors that are used multiple times / upgrading autograd to support multiuse tensors
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Building the model for the my personal project 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Reproducibility in Neural Networks / Setting the Seed for Keras
+
 
 
 ### Day 54:
@@ -324,3 +352,11 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Finally completed the Udemy course on Machine Learning Deployment
 - Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams  - Livestream based on Model Deployment
 - Reading "Grokking Deep Learning" - revisiting The Problem of privacy in deep Learning
+
+### Day 59:
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch
+- Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams
+- Completed Udemy course "Modern Deep Convolutional Neural Networks using Pytorch"
+- Reading "Grokking Deep Learning" - revisiting LSTMs, specifically a character language model
+
+
