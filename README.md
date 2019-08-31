@@ -220,7 +220,7 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - Serving the model via REST API - Flask Crash Course / Adding Config and Logging
 
 ### Day 33 :
-- Worked on Lesson 9 "Encrypted Deep Learning" - Encrypted Deep Learning in Keras - COMPLETED SPAIC PROGRAM COURSE!!!
+- Worked on Lesson 9 "Encrypted Deep Learning" - Encrypted Deep Learning in Keras - **COMPLETED SPAIC PROGRAM COURSE !!!**
 - "Intro to Deep Learning with PyTorch" - Worked Lesson 5 - Pooling Layers / CNN for Image Classification
 - Reading "Grokking Deep Learning" - Chapter 7 - Correlation Summarization / The simplified visualization
 - Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding a Convolutional Neural Network using PyTorch  (CIFAR) - PART 1
@@ -252,12 +252,50 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - "Intro to Deep Learning with PyTorch" - Worked Lesson 7 - Recurrent Neural Networks
 - Reading "Grokking Deep Learning" - Chapter 8 - Why dropout works : Ensembling works 
 - Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing a Simple RNN using PyTorch to do time-series prediction
-- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 7 - "When Worst-Case Sensitivity is Atypical" - Aggregation / Base synopsis generators / The special case of Linear Queries
-- Continuing with Udemy Course "Deployment of Machine Learning Models" - Testing the CI Pipeline - Setting Up differential Tests
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 7 - "When Worst-Case Sensitivity is Atypical" - Subsample and aggregate / Stability and Privacy - Two notions of Stability: Subsampling and Perturbation Stability
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to a PaaS (Heroku) without Containers - Heroku Config
 
+### Day 37 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 7 - Character-wise RNNs
+- Reading "Grokking Deep Learning" - Chapter 8 - Batch Gradient Descent
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing a Character-Level LSTM in Pytorch
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 8 - "Lower Bounds and Separation Results" - Reconstruction attacks - Lower Bounds for differential privacy 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to a PaaS (Heroku) without Containers - Testing the Deployment manually / Deploying to Heroku via CI
 
+### Day 38 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 8 - Sentiment Prediction RNNs
+- Reading "Grokking Deep Learning" - Chapter 9 - Standard hidden-layer activation functions
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Implementing Sentiment Analysis Exercise - Reviewing a Text - Encoding Words
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 9 - "Differential Privacy and Computational Complexity" - Polynomial time curators - Hard-to-Sytheticize distributions
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Running Apps with Containers (Docker) - Creating API App Dockerfile
 
+### Day 39 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 8 - Getting rid of Zero-Length / Cleaning & Padding Data 
+- Reading "Grokking Deep Learning" - Chapter 9 - Softmax computation / Activation installation instructions
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding creating an array of features of reviews padded with 0s or truncated
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 9 - "Differential Privacy and Computational Complexity" - Polynomial time adversaries 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Running Apps with Containers (Docker) - Releasing to Heroku with Docker
 
+### Day 40 :
+- "Intro to Deep Learning with PyTorch" - Worked Lesson 9 - Deploying PyTorch Models - **COMPLETED UDACITY COURSE !!!**
+- Reading "Grokking Deep Learning" - Chapter 10 - Reusing weights in multiple places / The Convolutional Layer
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Loading a Pytorch Model in C++ via Tracing
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 10 - "Differential Privacy and Mechanism Design" - Differential privacy as a solution concept 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Container Orchestration Options: Kubernetes, ECS, Docker Swarm 
+
+### Day 41 :
+- Started Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Linear Layer and Classification Pipeline
+- Reading "Grokking Deep Learning" - Chapter 11 - Supervised Natural Language Processing (NLP)
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding of a Linear Classifier in Pytorch
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 10 - "Differential Privacy and Mechanism Design" - Approximately truthful equilibrium selection mechanisms
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Configuring the AWS CLI - Uploading images to the Elastic Container Registry (ECR)
+
+### Day 42 :
+- Started Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Linear Layer and Classification Pipeline
+- Reading "Grokking Deep Learning" - Chapter 11 - Supervised Natural Language Processing (NLP)
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding of a Linear Classifier in Pytorch
+- Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 11 - "Differential Privacy and Mechanism Design" - Approximately truthful equilibrium selection mechanisms
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Deploying to IaaS (AWS ECS) - Configuring the AWS CLI - Uploading images to the Elastic Container Registry (ECR)
 
 
 ### Day 54:
