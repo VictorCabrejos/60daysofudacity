@@ -312,7 +312,6 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Challenges of using Big Data in Machine Learning / Plant Seedlings Images
 
 ### Day 45 :
-- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Final Project - **UDEMY COURSE COMPLETED !!!**
 - Reading "Grokking Deep Learning" - Chapter 12 - Forward Propagation / Backpropagation with arbitrary length
 - Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Boat Recognition Project
 - Reading "The Algorithmic Foundations of Differential Privacy" - Chapter 12 - "Additional Models" - Pan-private counting - **BOOK READING COMPLETED !!!**
@@ -324,39 +323,93 @@ My daily log for the #60daysofudacity pledge of the Secure and Private AI Schola
 - Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live coding Building the model for the my personal project 
 - Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Reproducibility in Neural Networks / Setting the Seed for Keras
 
+### Day 47 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Finding the Training / Test Data - I'm using 5k+ chest x-ray images labeled: Viral/Bacterial/Normal from Kaggle: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia 
+- Reading "Grokking Deep Learning" - Chapter 13 - Autograd to train a neural network / Adding automatic optimization
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Demo of Loading Image Data to Model in PyTorch
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - A Deep Learning Model with Big Data - Packaging the CNN / Adding the CNN to the API
 
+### Day 48 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Implementing Feed Forward mechanism
+- Starting Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Java Crash Course / Intro to Android Studio / Building Basic UI
+- Reading "Grokking Deep Learning" - Chapter 13 - The embedding layer / The Cross-entropy layer / The recurrent neural network layer
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - How to Build a Basic UI in Android Studio using Java / XML
+
+### Day 49 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Training the network / tuning Hyperparameters / Implementing Backprop with Pytorch (PART 1)
+- Continuing Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Intro to Tensorflow / Loss, Optimizers and Training
+- Reading "Grokking Deep Learning" - Chapter 14 - Character Language Modeling / Truncated Propagation
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Building a Linear Regression Model in PyCharm
+- Meet up with classmates - Going over the basics of an Artificial Neural Network 
+
+### Day 50 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Training the network / tuning Hyperparameters / Implementing Backprop with Pytorch (PART 2)
+- Continuing Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Intro to Tensorflow / Loss, Optimizers and Training
+- Reading "Grokking Deep Learning" - Chapter 14 - Vanishing and exploding gradients / a toy example of RNN backpropagation
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding a Custom Tensorflow Estimator function
+
+### Day 51 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Exploring: Flask vs Django to select how to deploy project as a Web App
+- Continuing Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Intro to Android Machine Learning Model import
+- Reading "Grokking Deep Learning" - Chapter 14 - Long short-term memory (LSTM) cells / Some intuition about LSTM gates
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding Building the App UI and Implementing inference functionality using Java
+
+### Day 52 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Model Validation / Retuning Model Hyperparameters (PART 1)
+- Continuing Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Building Computational Graph / Building Custome Estimator function for MNIST
+- Reading "Grokking Deep Learning" - Chapter 14 - The long short-term memory layer / Upgrading the character language model
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding Buildind a CIFAR10 classifier model / Formatting Image Data for Model input (PyCharm)
+
+### Day 53 :
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Model Validation / Retuning Model Hyperparameters (PART 2)
+- Continuing Udemy Course "Machine Learning: Build Apps & Predictions & Analyze Data" - Building Scientific Analysis Apps (CIFAR10)
+- Reading "Grokking Deep Learning" - Chapter 15 - The Problem of Privacy in Deep Learning
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding Buildind a CIFAR10 classifier model  / Predicting Image (automobile/plane/cat) and displaying results using Java in Android App
 
 ### Day 54:
 - Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Web app prototype done on Flask
-- Livestreamed entire session for all my friends AI enthusiasts
-- Reading "Grokking Deep Learning" - Going deeper into Overfitting in Neural Networks
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding a Face Detection model (writing Train and Test Sripts) / Building UI (Java) / Displaying Results
+- Reading "Grokking Deep Learning" - Chapter 15 - Federated Learning / Hacking into Federated Learning
 
 ### Day 55:
-- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - starting to write my Thesis inspired on this project (I'll keep everyone posted) - Taking more classes on Udemy  specifically on model deployment
-- Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams has been around Grokking Deep Learning lesson chapters)
-- Reading "Grokking Deep Learning" - revisiting the MNIST classifier using Numpy only - will be deploying this simple classifier as an Android app soon since I'm taking Java classes as well.
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - starting to write my Thesis inspired on this project (I'll keep everyone posted)
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Revisiting - Model deployment via REST API (Flask)
+- Reading "Grokking Deep Learning" - revisiting the MNIST classifier using Numpy only 
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding Making an MNIST prediction model with Tensorflow 
 
 ### Day 56:
 - Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch
-- Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams has been around Grokking Deep Learning lesson chapters)
+- Livestreamed entire learning session for all my friends AI enthusiasts on Facebook - Live Coding Text Summarizer Model 
 - Reading "Grokking Deep Learning" - revisiting the Math and code behind Backpropagation using Numpy only
 - Reading the following article "Privacy-preserving AI in medical imaging"
 
 ### Day 57:
 - Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - learning about different Deployment methods from a Udemy course (building an API)
 - Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams has been around Grokking Deep Learning lesson chapters)
-- Reading "Grokking Deep Learning" - revisiting Homomorphic Encryption - performing arithmetic on encrypted values
+- Reading "Grokking Deep Learning" - Chapter 15 - Homomorphic Encryption - performing arithmetic on encrypted values
 - Reading the following article "Federated Learning for Medical Imaging" from the Intel AI Blog
 
 ### Day 58:
-- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - Finally completed the Udemy course on Machine Learning Deployment
+- Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch 
+- Continuing with Udemy Course "Deployment of Machine Learning Models" - Common Issues found during deployment - **UDEMY COURSE COMPLETED !!!**
 - Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams  - Livestream based on Model Deployment
 - Reading "Grokking Deep Learning" - revisiting The Problem of privacy in deep Learning
 
 ### Day 59:
 - Working on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch
 - Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams
-- Completed Udemy course "Modern Deep Convolutional Neural Networks using Pytorch"
-- Reading "Grokking Deep Learning" - revisiting LSTMs, specifically a character language model
+- Worked on Udemy Course "Modern Deep Convolutional Neural Networks with Pytorch" - Final Project - **UDEMY COURSE COMPLETED !!!**
+- Reading "Grokking Deep Learning" - revisiting LSTMs, specifically a character language model - **BOOK READING COMPLETED !!!**
 
-
+### Day 60: of #60daysofudacity
+### #UdacityFacebookScholar
+- Completed the 60 days of udacity challenge !!! At Last!!  
+- A special thanks to Udacity, @Palak.Udacity and @akshit.udacity for all the wonderful work they did for this program
+- Completed a first version on my own personal project where I classify X-ray images for Pneumonia diagnosis with Pytorch - I am currently writing a Thesis inspired on the findings of this project
+- Livestreamed entire session for all my friends AI enthusiasts (the recent livestreams
+- Completed to 100% all the lessons of the Secure and Private AI Scholarship Program
+- Completed the Udacity Course "Intro to Deep Learning with PyTorch" 
+- I was able to complete 2 additional Machine Learning Udemy coures from : "Modern Deep Convolutional Neural Networks using Pytorch" and "Machine Learning Deployment"
+- Finished the entire book: "Grokking Deep Learning" - Learned so much about inner workings of Deep Learning models
+- Repository: https://github.com/VictorCabrejos/60daysofudacity
+- Thanks to everyone that have encouraged me all this time. I appreciate it.
