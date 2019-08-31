@@ -1,11 +1,12 @@
 # 60 Days of Udacity Challenge
 
-
-<div class="column">
-  <img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="Snow" width="400">
-</div>
-<div class="column">
-  <img src="https://cdn.getblueshift.com/pictures/38243/content/60-day-badges.png" alt="Forest" width="400">
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="Snow" width="350">
+  </div>
+  <div class="column">
+    <img src="https://cdn.getblueshift.com/pictures/38243/content/60-day-badges.png" alt="Forest" width="350">
+  </div>
 </div>
 
 
