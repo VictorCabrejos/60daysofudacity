@@ -2,10 +2,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="Snow" width="350">
+    <img src="https://i.ibb.co/zSDg4Qn/spaic-scholarship-badge.png" alt="Snow" width="300">
   </div>
   <div class="column">
-    <img src="https://cdn.getblueshift.com/pictures/38243/content/60-day-badges.png" alt="Forest" width="350">
+    <img src="https://cdn.getblueshift.com/pictures/38243/content/60-day-badges.png" alt="Forest" width="300">
   </div>
 </div>
 
